@@ -1,5 +1,9 @@
 # Introduction to Three.js
 
+## Quickstart
+
+To run the project locally, navigate to the root folder (same level as `main.js`), and then execute `npm run dev`.
+
 ## Changelog
 
 - Installed Three.js and Vite
